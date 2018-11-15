@@ -11,3 +11,7 @@ end
 def first_element(arr)
   return arr.first
 end
+
+def first_element(arr)
+  return arr.first
+end
